@@ -2,7 +2,7 @@
 
 ## 📋 Visão Geral
 
-Este repositório contém um projeto Power BI focado em análise de detalhes de vendas, desenvolvido como parte de um desafio técnico.
+Este repositório contém um projeto Power BI focado em análise de detalhes de vendas, como foco principal na inclusão de parâmetro, desenvolvido como parte de um desafio técnico.
 
 ## 📁 Estrutura do Projeto
 
