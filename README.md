@@ -44,4 +44,4 @@ Este projeto foi desenvolvido para fins educacionais/desafio técnico.
 
 ## 👤 Autor
 
-Projeto desenvolvido como parte de um desafio técnico em Power BI.
+André Grosso
